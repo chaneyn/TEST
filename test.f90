@@ -1,6 +1,7 @@
 module module_test
 
 integer :: var
+integer :: var3
 
 end module
 
